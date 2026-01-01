@@ -1,6 +1,6 @@
 # Student Management System (MySQL)
 
-## 📌 Project Overview
+## Project Overview
 This project is a **Student Management System** built using **MySQL**.  
 It manages students, courses, enrollments, and marks using relational database concepts.
 
@@ -9,7 +9,7 @@ It manages students, courses, enrollments, and marks using relational database c
 - MySQL Workbench
 - Git & GitHub
 
-## 🗂️ Database Structure
+## Database Structure
 
 ### 1. Students Table
 Stores student details.
@@ -39,23 +39,23 @@ Stores marks for students in courses.
 - course_id (Foreign Key)
 - marks
 
-## 🔑 Relationships
+## Relationships
 - One student can enroll in multiple courses
 - One course can have multiple students
 - Students receive marks for enrolled courses
 
-## 📊 SQL Features Used
+## SQL Features Used
 - CREATE, INSERT, SELECT
 - PRIMARY KEY & FOREIGN KEY
 - JOINS
 - AGGREGATE FUNCTIONS (AVG)
 - ORDER BY
 
-## 📈 Sample Queries
+## Sample Queries
 - List students with their courses
 - Find topper using average marks
 
-## 🎯 Learning Outcome
+## Learning Outcome
 - Strong understanding of relational databases
 - Hands-on experience with SQL joins and constraints
 - GitHub project management
